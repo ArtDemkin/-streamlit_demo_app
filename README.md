@@ -8,4 +8,4 @@
 
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946).
 
-[Ссылка на развернутое приложение](https://image-classification-demo.herokuapp.com/).
+[Ссылка на развернутое приложение](http://192.168.0.103:8503).
