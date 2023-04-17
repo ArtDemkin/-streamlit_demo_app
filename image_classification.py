@@ -48,3 +48,4 @@ if result:
     st.write('**Результаты распознавания:**')
     print_predictions(preds)
 
+
