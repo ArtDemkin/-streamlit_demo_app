@@ -8,3 +8,4 @@
 
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946).
 ## [Ссылка на развернутое приложение в облаке streamlit cloud](https://artdemkin-image-classification-app-image-classification-jmfnzo.streamlit.app/)
+
